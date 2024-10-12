@@ -1,0 +1,24 @@
+* {
+
+    font family: cursive;
+}
+
+h3 {
+    color: coral
+}
+
+/*CLASS SELECTOR */
+.MY_CLASS {
+    COLOR: RGB(77, 135, 116);
+}
+
+/*id SELECTOR */
+#my_id {
+    color: blue
+}
+
+/* GROUP SELECTOR */
+h5,
+P {
+    COLOR: YELLOW
+}
